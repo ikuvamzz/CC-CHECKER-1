@@ -1,7 +1,7 @@
 {
 	"name": "CC CHECK",
-	"description": "Rohithaditya",
-	"repository": "https://github.com/Rohith-sreedharan/CC-CHECKER/",
+	"description": "ikuvamzz",
+	"repository": "https://github.com/ikuvamzz/CC-CHECKER-1",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["node", "express", "static"],
 	"env": {
@@ -19,7 +19,7 @@
 			"required": true
 		},
 		"HEROKU_APP_NAME": {
-			"description": "YOur app name",
+			"description": "Your app name",
 			"required": true
 		}
 	}
